@@ -1,3 +1,5 @@
+#add files that should be ignored here
+
 # Logs
 logs
 *.log
@@ -57,5 +59,4 @@ typings/
 # dotenv environment variables file
 .env
 
-# next.js build output
-.next
+
